@@ -10,7 +10,7 @@
 
 ---
 
-I'm a software developer with **3.5+ years of professional frontend development experience**, currently building a full-stack e-commerce application from the ground up.
+I'm a software developer with **4+ years of professional frontend development experience**, currently building a full-stack e-commerce application from the ground up.
 
 My experience includes production web applications, interactive dashboards, real-time maps, and modern frontend architectures.
 
